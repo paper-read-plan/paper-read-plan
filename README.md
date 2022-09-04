@@ -11,6 +11,7 @@ This is a project to collect and analyse the paper about db, bigdata and more in
 4. 单一任务(某一年的期刊)完成最好在20-30天左右完成，如果完成，就在文件夹的 readme.md 中标记完成，然后再做新的任务。
 5. 如果还有其他的好的期刊没有考虑到，大家可以直接添加新的文件夹。
 6. 目前不限制总结的形式，可以以我给出的链接做参考，必要部分：中文的摘要以及成果总结。后期等大家总结的差不多了，我们再按照类别重新统计整理。
+7. 目前排除新硬件或者测试工具方向，如果有人有意向我们可以在商量。
 
 ## 总结参考
 + https://blog.csdn.net/renlj1895/article/details/124430928 
