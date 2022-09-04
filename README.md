@@ -13,5 +13,5 @@ This is a project to collect and analyse the paper about db, bigdata and more in
 6.目前不限制总结的形式,可以以我给出的链接做参考,必要部分:中文的摘要以及成果总结.后期等大家总结的差不多了,我们再按照类别重新统计整理.
 
 ## 总结参考
-https://blog.csdn.net/renlj1895/article/details/124430928
+https://blog.csdn.net/renlj1895/article/details/124430928 
 https://mp.weixin.qq.com/s/3GrZ1dQANjtO5RCm8RWcLA
